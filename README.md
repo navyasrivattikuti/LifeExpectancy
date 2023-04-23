@@ -30,11 +30,11 @@
 ## Life_exp =  52.836 + 2.415(Income_COR) – 0.145(Alcohol) + 0.566(Schooling) – 0.002(Adult_Mortality) – 0.008(BMI) - 0.006(Hepatitis_B) + 0.008(Polio) + 0.013(Diphtheria) - 0.426(HIV_AIDS)
 
 ## Interpretation of Results:
-Holding all factors fixed, a 1% increase in IncomeCOR in a country is associated with an increase in Life Expectancy by 880 days on average
-Holding all factors fixed, a 1% increase in Alcohol in a country is associated with a decrease in Life Expectancy by 51 days on average
+## Holding all factors fixed, a 1% increase in IncomeCOR in a country is associated with an increase in Life Expectancy by 880 days on average
+## Holding all factors fixed, a 1% increase in Alcohol in a country is associated with a decrease in Life Expectancy by 51 days on average
 
 ## Hypothesis:
-The P-value is 0.0003864, which is smaller than the significance level 0.05. Thus we can reject the null hypothesis that at least there is no relationship between Life Expectancy and the independent variables. We conclude that there is a relationship between the variables and that model is statistically significant.
+## The P-value is 0.0003864, which is smaller than the significance level 0.05. Thus we can reject the null hypothesis that at least there is no relationship between ## Life Expectancy and the independent variables. We conclude that there is a relationship between the variables and that model is statistically significant.
 
 ## The Data is accurate as it came from WHO but it contains many outliers which were significant which affected the better fit of the model
 ## There is a problem with skewness and we couldn’t solve it by applying log or sqrt or inverse functions
