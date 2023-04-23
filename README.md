@@ -15,6 +15,8 @@
 ## Null Hypothesis, H0: There is no relationship between Life Expectancy and the independent variables  
 ## Alternate Hypothesis, Ha: There is a relationship between Life Expectancy and the independent variables
 
+# R Code Outcomes
+
 ![image](https://user-images.githubusercontent.com/125774977/233864553-a532bcba-748a-4491-84cf-614a88042c15.png)
 
 ![image](https://user-images.githubusercontent.com/125774977/233864950-9df1e83e-d03e-4b64-a5f4-baf3594822d6.png)
