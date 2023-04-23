@@ -17,9 +17,29 @@
 
 ![image](https://user-images.githubusercontent.com/125774977/233864553-a532bcba-748a-4491-84cf-614a88042c15.png)
 
+![image](https://user-images.githubusercontent.com/125774977/233864950-9df1e83e-d03e-4b64-a5f4-baf3594822d6.png)
+
 ![image](https://user-images.githubusercontent.com/125774977/233864598-600a9a22-e005-4d21-a600-41e25f950549.png)
 
 ![image](https://user-images.githubusercontent.com/125774977/233864625-e8360134-3156-4f6c-92e4-afb254a0c4bd.png)
+
+# Results
+
+## Yit = β1X1it + β1X1it ⋯ + βkXkit + αi + uit
+
+## Life_exp =  52.836 + 2.415(Income_COR) – 0.145(Alcohol) + 0.566(Schooling) – 0.002(Adult_Mortality) – 0.008(BMI) - 0.006(Hepatitis_B) + 0.008(Polio) + 0.013(Diphtheria) - 0.426(HIV_AIDS)
+
+## Interpretation of Results:
+Holding all factors fixed, a 1% increase in IncomeCOR in a country is associated with an increase in Life Expectancy by 880 days on average
+Holding all factors fixed, a 1% increase in Alcohol in a country is associated with a decrease in Life Expectancy by 51 days on average
+
+## Hypothesis:
+The P-value is 0.0003864, which is smaller than the significance level 0.05. Thus we can reject the null hypothesis that at least there is no relationship between Life Expectancy and the independent variables. We conclude that there is a relationship between the variables and that model is statistically significant.
+
+## The Data is accurate as it came from WHO but it contains many outliers which were significant which affected the better fit of the model
+## There is a problem with skewness and we couldn’t solve it by applying log or sqrt or inverse functions
+## There are other factors like accidents, pollution, stress, etc. that might have an impact on life expectancy (future research)
+## How effective the model can be if we consider countries categorized by their wealth with a fixed effects model? (future research)
 
 
 
